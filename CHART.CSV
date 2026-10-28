@@ -1,0 +1,157 @@
+Account ID,Account Description,Account Type,Inactive,Tax Code,Next Check Number,Current Balance,1099 Settings
+10000-00,Petty Cash,0,FALSE,,,327.55,0
+10100-00,Cash on Hand,0,FALSE,,,1850.45,0
+10200-00,Regular Checking Account,0,FALSE,,10211,23386.02,0
+10300-00,Payroll Checking Account,0,FALSE,,1224,3711.09,0
+10400-00,Savings Account,0,FALSE,,,7500.00,0
+11000-00,Accounts Receivable,1,FALSE,,,182989.83,0
+11100-00,Contracts Receivable,1,FALSE,,,0.00,0
+11400-00,Other Receivables,1,FALSE,,,7681.84,0
+11500-00,Allowance for Doubtful Account,1,FALSE,,,-5000.00,0
+12000-00,Inventory,2,FALSE,,,24336.06,0
+14000-00,Prepaid Expenses,4,FALSE,,,14221.30,0
+14100-00,Employee Advances,4,FALSE,,,3000.65,0
+14200-00,Notes Receivable-Current,4,FALSE,,,11000.00,0
+14700-00,Other Current Assets,4,FALSE,,,120.00,0
+15000-00,Furniture and Fixtures,5,FALSE,,,62769.25,0
+15100-00,Equipment,5,FALSE,,,38738.33,0
+15200-00,Vehicles,5,FALSE,,,86273.40,0
+15300-00,Other Depreciable Property,5,FALSE,,,6200.96,0
+15400-00,Leasehold Improvements,5,FALSE,,,0.00,0
+15500-00,Buildings,5,FALSE,,,185500.00,0
+15600-00,Building Improvements,5,FALSE,,,26500.00,0
+16900-00,Land,5,FALSE,,,0.00,0
+17000-00,Accum. Depreciation-Furniture,6,FALSE,,,-54680.57,0
+17100-00,Accum. Depreciation-Equipment,6,FALSE,,,-33138.11,0
+17200-00,Accum. Depreciation-Vehicles,6,FALSE,,,-51585.26,0
+17300-00,Accum. Depreciation-Other,6,FALSE,,,-3788.84,0
+17400-00,Accum. Depreciation-Leasehold,6,FALSE,,,0.00,0
+17500-00,Accum. Depreciation-Buildings,6,FALSE,,,-34483.97,0
+17600-00,Accum. Depreciation-Bldg Imp,6,FALSE,,,-4926.28,0
+19000-00,Deposits,8,FALSE,,,15000.00,0
+19100-00,Organization Costs,8,FALSE,,,4995.10,0
+19150-00,Accum Amortiz - Organiz Costs,8,FALSE,,,-2000.00,0
+19200-00,Notes Receivable- Noncurrent,8,FALSE,,,5004.90,0
+19900-00,Other Noncurrent Assets,8,FALSE,,,3333.00,0
+20000-00,Accounts Payable,10,FALSE,,,-97810.51,0
+23000-00,Accrued Expenses,12,FALSE,,,-3022.55,0
+23100-00,Sales Tax Payable,12,FALSE,,,-19037.96,0
+23200-00,Wages Payable,12,FALSE,,,-2320.30,0
+23300-00,401 K Deductions Payable,12,FALSE,,,-2409.55,0
+23350-00,Health Insurance Payable,12,FALSE,,,530.64,0
+23400-00,Federal Payroll Taxes Payable,12,FALSE,,,-40853.61,0
+23500-00,FUTA Tax Payable,12,FALSE,,,-258.20,0
+23600-00,State Payroll Taxes Payable,12,FALSE,,,-6718.84,0
+23700-00,SUTA Tax Payable,12,FALSE,,,-658.67,0
+23800-00,Local Payroll Taxes Payable,12,FALSE,,,-113.25,0
+23900-00,Income Taxes Payable,12,FALSE,,,-11045.75,0
+24000-00,Other Taxes Payable,12,FALSE,,,-2590.15,0
+24100-00,Current Portion Long-Term Debt,12,FALSE,,,-5167.00,0
+24300-00,Contracts Payable- Current,12,FALSE,,,-2000.00,0
+24700-00,Other Current Liabilities,12,FALSE,,,-104.00,0
+24800-00,Suspense - Clearing Account,12,FALSE,,,0.00,0
+27000-00,Notes Payable-Noncurrent,14,FALSE,,,-4000.00,0
+27100-00,Contracts Payable- Noncurrent,14,FALSE,,,0.00,0
+27400-00,Other Long-Term Liabilities,14,FALSE,,,0.00,0
+39002-00,Beginning Balance Equity,16,FALSE,,,0.00,0
+39003-00,Common Stock,16,FALSE,,,-5000.00,0
+39004-00,Paid-in Capital,16,FALSE,,,-100000.00,0
+39005-00,Retained Earnings,18,FALSE,,,-189037.60,0
+39007-00,Dividends Paid,19,FALSE,,,0.00,0
+40000-00,Sales,21,FALSE,,,-4795.00,0
+40000-AV,Sales - Aviary,21,FALSE,,,-51652.86,0
+40000-BK,Sales - Books,21,FALSE,,,-7293.10,0
+40000-CE,Sales - Ceramics,21,FALSE,,,0.00,0
+40000-EQ,Sales - Equipment,21,FALSE,,,-71017.40,0
+40000-FF,Sales - Food/Fert,21,FALSE,,,-5374.05,0
+40000-FU,Sales - Furniture,21,FALSE,,,0.00,0
+40000-HT,Sales - Hand Tools,21,FALSE,,,-7058.12,0
+40000-LS,Sales - Landscape Services,21,FALSE,,,-17477.39,0
+40000-MI,Sales - Miscellaneous,21,FALSE,,,-45.00,0
+40000-NU,Sales - Nursery,21,FALSE,,,-67637.11,0
+40000-PO,Sales - Pots,21,FALSE,,,-11483.74,0
+40000-SE,Sales - Seeds,21,FALSE,,,-8661.39,0
+40000-SO,Sales - Soil,21,FALSE,,,-9152.45,0
+40000-ST,Sales - Statuary,21,FALSE,,,0.00,0
+40000-TO,Sales - Topiary,21,FALSE,,,0.00,0
+40800-00,Interest Income,21,FALSE,,,0.00,0
+41000-00,Other Income,21,FALSE,,,-25500.00,0
+45400-00,Finance Charge Income,21,FALSE,,,0.00,0
+48000-00,Sales Returns and Allowances,21,FALSE,,,0.00,0
+49000-00,Sales Discounts,21,FALSE,,,135.93,0
+50000-00,Product Cost,23,FALSE,,,-68.50,0
+50000-AV,Product Cost - Aviary,23,FALSE,,,20821.45,0
+50000-BK,Product Cost - Books,23,FALSE,,,2361.37,0
+50000-CE,Product Cost - Ceramics,23,FALSE,,,0.00,0
+50000-EQ,Product Cost - Equipment,23,FALSE,,,29550.50,0
+50000-FF,Product Cost - Food/Fert,23,FALSE,,,2127.54,0
+50000-FU,Product Cost - Furniture,23,FALSE,,,0.00,0
+50000-HT,Product Cost - Hand Tools,23,FALSE,,,2813.85,0
+50000-LS,Product Cost - Landscaping,23,FALSE,,,0.00,0
+50000-MS,Product Cost - Miscellaneous,23,FALSE,,,0.00,0
+50000-PO,Product Cost - Pots,23,FALSE,,,3423.60,0
+50000-SE,Product Cost - Seeds,23,FALSE,,,3450.65,0
+50000-SO,Product Cost - Soil,23,FALSE,,,4075.97,0
+50000-ST,Product Cost - Statuary,23,FALSE,,,0.00,0
+50000-TO,Product Cost - Topiary,23,FALSE,,,0.00,0
+57000-00,Direct Labor,23,FALSE,,,0.00,0
+57000-LS,Direct Labor - Landscaping,23,FALSE,,,0.00,0
+57000-MI,Direct Labor - Miscellaneous,23,FALSE,,,0.00,0
+57000-NU,Direct Labor - Nursery,23,FALSE,,,3062.50,0
+57000-TO,Direct Labor - Topiary,23,FALSE,,,0.00,0
+57200-00,Materials Cost,23,FALSE,,,1352.45,0
+57200-LS,Materials Cost - Landscaping,23,FALSE,,,0.00,0
+57200-MI,Materials Cost - Miscellaneous,23,FALSE,,,0.00,0
+57200-NU,Materials Cost - Nursery,23,FALSE,,,9668.50,0
+57200-TO,Materials Cost - Topiary,23,FALSE,,,0.00,0
+57300-00,Subcontractors,23,FALSE,,,0.00,0
+57300-LS,Subcontractors - Landscaping,23,FALSE,,,335.50,0
+57300-MI,Subcontractors - Miscellaneous,23,FALSE,,,0.00,0
+57300-NU,Subcontractors - Nursery,23,FALSE,,,0.00,0
+57300-TO,Subcontractors - Topiary,23,FALSE,,,0.00,0
+57500-00,Freight,24,FALSE,,,50.00,0
+58000-00,Other,24,FALSE,,,0.00,0
+58500-00,Inventory Adjustments,24,FALSE,,,0.00,0
+59000-00,Purchase Returns and Allowance,24,FALSE,,,0.00,0
+59500-00,Purchase Discounts,24,FALSE,,,0.00,0
+60000-00,Advertising Expense,24,FALSE,,,1325.00,0
+60500-00,Amortization Expense,24,FALSE,,,0.00,0
+61000-00,Auto Expenses,24,FALSE,,,274.56,0
+61500-00,Bad Debt Expense,24,FALSE,,,1292.10,0
+62000-00,Bank Charges,24,FALSE,,,18.00,0
+62500-00,Cash Over and Short,24,FALSE,,,0.00,0
+63000-00,Charitable Contributions Exp,24,FALSE,,,0.00,0
+63500-00,Commissions and Fees Exp,24,FALSE,,,0.00,0
+64000-00,Depreciation Expense,24,FALSE,,,8394.00,0
+64500-00,Dues and Subscriptions Exp,24,FALSE,,,0.00,0
+65000-00,Employee Benefit Programs Exp,24,FALSE,,,0.00,0
+65500-00,Freight Expense,24,FALSE,,,0.00,0
+66000-00,Gifts Expense,24,FALSE,,,0.00,0
+66500-00,Income Tax Expense,24,FALSE,,,0.00,0
+67000-00,Insurance Expense,24,FALSE,,,0.00,0
+67500-00,Interest Expense,24,FALSE,,,0.00,0
+68000-00,Laundry and Cleaning Exp,24,FALSE,,,0.00,0
+68500-00,Legal and Professional Expense,24,FALSE,,,510.00,0
+69000-00,Licenses Expense,24,FALSE,,,150.00,0
+69500-00,Loss on NSF Checks,24,FALSE,,,0.00,0
+70000-00,Maintenance Expense,24,FALSE,,,75.00,0
+70500-00,Meals and Entertainment Exp,24,FALSE,,,0.00,0
+71000-00,Office Expense,24,FALSE,,,479.89,0
+71500-00,Other Taxes,24,FALSE,,,0.00,0
+72000-00,Payroll Tax Exp,24,FALSE,,,15392.13,0
+72500-00,Penalties and Fines Exp,24,FALSE,,,0.00,0
+73000-00,Pension/Profit-Sharing Plan Ex,24,FALSE,,,0.00,0
+73100-00,Printing Offsite Expense,24,FALSE,,,0.00,0
+73500-00,Postage Expense,24,FALSE,,,0.00,0
+74000-00,Rent or Lease Expense,24,FALSE,,,1100.00,0
+74500-00,Repairs Expense,24,FALSE,,,3694.00,0
+75000-00,Salaries Expense,24,FALSE,,,0.00,0
+75100-00,Salaries Bonus Expense,24,FALSE,,,0.00,0
+75200-00,Salaries Commission Expense,24,FALSE,,,0.00,0
+75500-00,Supplies Expense,24,FALSE,,,2873.42,0
+76500-00,Travel Expense,24,FALSE,,,0.00,0
+77000-00,Utilities Expense,24,FALSE,,,303.45,0
+77500-00,Wages Expense,24,FALSE,,,134428.56,0
+89000-00,Other Expense,24,FALSE,,,464.90,0
+89500-00,Purchase Disc- Expense Items,24,FALSE,,,-8.11,0
+90000-00,Gain/Loss on Sale of Assets,24,FALSE,,,0.00,0
