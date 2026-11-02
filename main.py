@@ -9,7 +9,7 @@ def main():
     df = pd.read_csv("data/CHART.CSV")
     cleaned_df = clean_data(df)
 
-    # Transform the cleaned data.
+   
     transformed_df = transform_data(cleaned_df)
     print(transformed_df.head())
 
